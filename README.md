@@ -123,6 +123,6 @@ streamlit run app.py
 If no file is uploaded, the dashboard automatically loads a demo dataset
 to showcase functionality.
 
-## 🌐 Live Demo
+## 🌐 Live Demo 
 
 🔗 https://logistics-reporting-automation.streamlit.app
